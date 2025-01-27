@@ -1,0 +1,20 @@
+{
+  "name": "praeceptum",
+  "version": "1.0.0",
+  "description": "This is a joint project, meant to tackle the issue of consolidating reciepe information for cooks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Energeticdinoguy04/praeceptum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Energeticdinoguy04/praeceptum/issues"
+  },
+  "homepage": "https://github.com/Energeticdinoguy04/praeceptum#readme"
+}
